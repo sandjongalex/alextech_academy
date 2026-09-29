@@ -19,7 +19,9 @@ Aucune maîtrise préalable de l’électronique nécessaire.
 - utiliser correctement un multimètre ;
 - lire un schéma électronique ;
 - calculer tensions, courants et puissances ;
-- identifier les principaux composants ;
+- identifier et choisir les principaux composants passifs et actifs ;
+- lire et choisir une résistance ;
+- comprendre le rôle des condensateurs et des bobines ;
 - dimensionner LED, transistor, MOSFET et relais ;
 - comprendre les alimentations ;
 - interfacer des capteurs et actionneurs ;
@@ -30,7 +32,7 @@ Aucune maîtrise préalable de l’électronique nécessaire.
 ## Architecture interne
 
 - `01_Programme/` — programme maître, progression, objectifs et planning pédagogique.
-- `02_Cours/` — supports détaillés des 16 modules.
+- `02_Cours/` — supports détaillés des 18 modules.
 - `03_TP/` — travaux pratiques, mesures et exercices expérimentaux.
 - `04_Projets/` — mini-projets et projet final.
 - `05_Code_Source/` — code utile pour simulations, calculs ou futurs montages programmables.
@@ -43,21 +45,23 @@ Aucune maîtrise préalable de l’électronique nécessaire.
 ## Modules
 
 1. Comprendre l’électricité
-2. Loi d’Ohm
-3. Circuits série et parallèle
-4. Lois de Kirchhoff
-5. Diviseur de tension
-6. Condensateurs
-7. Diodes
-8. Redressement et alimentation
-9. Transistor BJT
-10. MOSFET
-11. Relais et optocoupleurs
-12. Amplificateur opérationnel
-13. Capteurs
-14. Alimentations modernes
-15. Instruments de mesure
-16. Diagnostic électronique
+2. Résistances : comprendre, lire et choisir
+3. Loi d’Ohm et puissance
+4. Circuits série et parallèle
+5. Lois de Kirchhoff
+6. Diviseur de tension
+7. Condensateurs et circuits RC
+8. Bobines, inductances et circuits RL
+9. Diodes et protections
+10. Redressement et alimentation DC
+11. Transistor BJT
+12. MOSFET
+13. Relais et optocoupleurs
+14. Amplificateur opérationnel
+15. Capteurs et grandeurs électriques
+16. Alimentations modernes : LDO, Buck, Boost et Buck-Boost
+17. Instruments de mesure : multimètre, oscilloscope et alimentation de laboratoire
+18. Diagnostic électronique
 
 ## Projet final
 
