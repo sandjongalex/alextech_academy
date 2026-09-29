@@ -3,6 +3,19 @@
 ## Objectif du module
 Construire les bases indispensables avant toute étude de composants ou de circuits. L’apprenant doit comprendre ce que représentent physiquement la charge, la tension, le courant, la résistance, la puissance, l’énergie et les références électriques.
 
+## Navigation du module
+
+1. [Objectifs pédagogiques](01_Objectifs.md)
+2. [Cours complet](02_Cours_Complet.md)
+3. [TP Multimètre](03_TP_Multimetre.md)
+4. [Exercices](04_Exercices.md)
+5. [Quiz](05_Quiz.md)
+6. [Corrigés](06_Corriges.md)
+7. [TikTok / Shorts](07_TikTok.md)
+8. [YouTube](08_YouTube.md)
+9. [Matériel](09_Materiel.md)
+10. [Ressources](10_Ressources.md)
+
 ## Compétences visées
 À la fin de ce module, l’apprenant doit pouvoir :
 - expliquer simplement ce qu’est une charge électrique ;
@@ -25,34 +38,8 @@ Construire les bases indispensables avant toute étude de composants ou de circu
 9. Lecture des unités et préfixes : V, A, Ω, W, J, Wh, m, µ, k, M
 10. Premiers réflexes de sécurité et de mesure
 
-## TP associé
-Mesures de base au multimètre :
-- tension d’une pile ;
-- résistance d’un composant ;
-- continuité d’un conducteur ;
-- première mesure de courant sur un montage simple et sécurisé.
-
-## Exercices
-- reconnaître la grandeur et l’unité correspondante ;
-- convertir mA ↔ A, mV ↔ V, kΩ ↔ Ω ;
-- interpréter des situations simples : pile, lampe, charge USB, alimentation de laboratoire ;
-- identifier correctement les points de référence d’un schéma simple.
-
 ## Évaluation
 Quiz de fin de module + mini exercice pratique de mesure.
-
-## Contenus gratuits dérivés
-### TikTok
-- Pourquoi existe-t-il 230 V dans la prise mais seulement 5 V dans ton téléphone ?
-- Tension et courant : quelle différence ?
-- Le GND n’est pas toujours « 0 V absolu ».
-- 1 A et 1 V : lequel est dangereux ? — à traiter avec prudence et sans simplification trompeuse.
-
-### YouTube
-**Comprendre tension, courant et résistance sans formules compliquées**
-
-## CTA recommandé
-> Le module complet avec exercices, mesures et TP est disponible dans la formation Électronique pratique de zéro — AlexTech Academy.
 
 ## Passage vers le module 2
 Une fois les grandeurs électriques comprises, l’apprenant peut étudier le premier composant passif fondamental : **la résistance**.
